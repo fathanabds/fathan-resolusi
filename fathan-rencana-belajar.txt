@@ -2,6 +2,7 @@ RENCANA BELAJAR FATHAN
 - Fundamental Pemrograman (HTML, CSS, JS)
   * Roadmap Sandhika Galih
   * YT Sandhika Galih
+  * Roadmap Full Stack Developer
 - Back End (Express.js, PostgreSQL, Sequelize)
 - Front End (Express.js, React.js)
 - Microservice, React Native, Next.js
