@@ -5,6 +5,7 @@ RENCANA BELAJAR FATHAN
   * Roadmap Full Stack Developer
 - Back End (Express.js, PostgreSQL, Sequelize)
   * Node.js
-  * PostgreSQL
 - Front End (Express.js, React.js)
+  * Tailwind CSS
+  * React.js
 - Microservice, React Native, Next.js
