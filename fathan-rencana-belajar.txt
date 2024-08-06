@@ -4,5 +4,7 @@ RENCANA BELAJAR FATHAN
   * YT Sandhika Galih
   * Roadmap Full Stack Developer
 - Back End (Express.js, PostgreSQL, Sequelize)
+  * Node.js
+  * PostgreSQL
 - Front End (Express.js, React.js)
 - Microservice, React Native, Next.js
